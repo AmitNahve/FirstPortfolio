@@ -36,6 +36,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>Experience with: <br />
             Angular.js<br />
+            Angular.Ts<br />
             React.js<br />
             Html,css,js
           </ListParagraph>
@@ -44,7 +45,7 @@ const Technologies = () => (
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Data Bases</ListTitle>
+          <ListTitle>Databases</ListTitle>
           <ListParagraph>Experience with: <br />
             MySql<br />
             SQlite<br />

@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Thif VS Cops',
-    description: "A chasing game (pac-man style) implemented by C# WPF .NET framework.",
+    description: "A chasing game (PAC-MAN style) implemented by C# WPF .NET framework.",
     image: '/images/4.jpeg',
     tags: ['C#', 'WPF', '.NET framework'],
     source: 'https://google.com',
